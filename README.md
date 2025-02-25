@@ -21,15 +21,16 @@ A **Blood Point Application** developed using **Java** and **MySQL**, designed t
 - **Donations Table:** Logs successful donations  
 
 
-    License
-This project is open-source under the MIT License.
 
 🤝 Contributing
 Contributions are welcome! Fork the repo, create a branch, and submit a PR.
 
- Contact
-Developed by Nilesh Ghavate
+#Contributers:
+-Nilesh Ghavate
+-Yash Ahire
+-Tejas Bachute
 
+#Contact:
 #Email: nileshghavate11@gmail.com
 
 #LinkedIn: linkedin.com/in/nileshghavate-203b27251
